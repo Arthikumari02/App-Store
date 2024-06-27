@@ -1,0 +1,23 @@
+.app-item {
+  width: 120px;
+  height: 130px;
+  padding: 10px;
+  border-radius: 10px;
+  padding-top: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+}
+
+.app-image {
+  width: 60px;
+  height: 60px;
+}
+
+.app-name {
+  font-family: 'Bree Serif';
+  font-size: 18px;
+  font-weight: bold;
+}
